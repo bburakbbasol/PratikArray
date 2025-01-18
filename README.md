@@ -25,14 +25,3 @@ Bu proje, C# dilinde temel dizi işlemlerini içermektedir. Kullanıcıdan giri�
 6. **Sonuçların Ekrana Yazdırılması**:
    - Büyükten küçüğe sıralanan dizi, `for` döngüsü ile ekrana yazdırılır.
 
-## Nasıl Çalıştırılır:
-
-- Kodu bir C# ortamında derleyip çalıştırın.
-- İstendiğinde 10 adet tam sayı girin.
-- 11. değeri de girdikten sonra, sıralanmış dizi ekrana yazdırılacaktır.
-
-## Özellikler:
-
-- Temel dizi işlemlerini göstermektedir.
-- Dinamik dizi girişi için kullanıcı etkileşimi içerir.
-- Dizi boyutunu değiştirme ve sıralama işlemlerini içerir.
